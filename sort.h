@@ -20,4 +20,7 @@ void bubble_sort(int *array, size_t size);
 void insertion_sort_list(listint_t **list);
 void selection_sort(int *array, size_t size);
 void print_array(const int *array, size_t size);
+void insertion_sort_list(listint_t **list);
+void node_swap(listint_t *sorted, listint_t *unsorted);
+void print_list(const listint_t *list);
 #endif
