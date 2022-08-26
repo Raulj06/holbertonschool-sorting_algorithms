@@ -1,5 +1,5 @@
 #include "sort.h"
-8
+
 /**
  * insertion_sort_list - sorts a doubly linked list in ascending order
  * using the Insertion sort algorithm
