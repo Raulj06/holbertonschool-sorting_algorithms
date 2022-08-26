@@ -1,5 +1,5 @@
 #include "sort.h"
-8
+
 /**
  * bubble_sort - sorts an array of integers in ascending order
  * @array: pointer to the array
